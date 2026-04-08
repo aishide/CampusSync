@@ -21,6 +21,11 @@ An AI-powered campus grievance and management platform that helps students, facu
 
 ## Getting Started
 
+Developed By :
+Aishi De
+Parthiv Abhani 
+Shlok Vij
+
 1. Clone the repository
 2. Install dependencies: `npm install`
 3. Set up Supabase configuration
